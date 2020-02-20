@@ -1,4 +1,4 @@
-<% project_name = 'project-two-client' %>
+<% project_name = 'project-api' %>
 
 default: &default
   adapter: postgresql
